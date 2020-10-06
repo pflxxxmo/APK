@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\visual studio\4\apk_lab1\apk_lab1\source.cpp(30): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  apk_lab1.vcxproj -> D:\Visual Studio\4\apk_lab1\Debug\apk_lab1.exe
